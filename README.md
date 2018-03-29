@@ -1,0 +1,2 @@
+# WeChat-C
+first repository
